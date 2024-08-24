@@ -1,0 +1,32 @@
+python: https://www.geeksforgeeks.org/number-guessing-game-in-python/?ref=lbp
+Next.js: https://www.turing.com/kb/nextjs-tutorial#initializing-a-next.js-project
+         https://www.freecodecamp.org/news/build-a-full-stack-application-with-nextjs/
+mantis theme: https://codedthemes.gitbook.io/mantis
+tailwindcss library: https://flowbite.com/docs/getting-started/quickstart/
+	https://flowbite.com/docs/components/rating/#score-rating
+php:  https://www.freecodecamp.org/news/the-php-handbook/
+react-native:  https://reactnative.dev/docs/
+pwa: https://dev.to/icyybee/the-ultimate-guide-to-converting-react-apps-to-           progressive-web-apps-1pnp
+     https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+react vs angular: https://radixweb.com/blog/react-vs-angular
+books:  https://www.freebookcentre.net/
+mern stack book: https://books.google.ru/
+react and Django:  https://www.digitalocean.com/community/tutorials/build-a-to-do-                   application-using-django-and-react
+django-rest_framework:  https://radixweb.com/blog/create-rest-api-using-django-                        rest-framework
+SAP HANA:  https://www.guru99.com/sap-hana-tutorial.html
+https://codepen.io/sukma-budi/pen/PgojJd
+https://codepen.io/prajotsurey/pen/gOEMJWx
+https://codepen.io/sukma-budi/details/KKZyWda
+https://codepen.io/spark/373
+https://codepen.io/yuanchuan/pen/WNmwpYJ
+https://codepen.io/collection/oEmqKe
+https://codepen.io/borntofrappe/pen/eYXKRWP
+https://codepen.io/Pedro-Ondiviela/pen/gOEdJmK
+https://codepen.io/BlogFire/pen/poYOrNZ
+https://codepen.io/giana/pen/LYaOdye
+https://codepen.io/amit_sheen/pen/vYPeyye
+https://codepen.io/tsuhre/pen/YzgEWPa
+private routing: https://www.educative.io/answers/how-to-handle-		authentication-and-authorization-in-react-js
+C++ tutorial: https://learn.microsoft.com/en-us/cpp/build/projects-and-build-systems-cpp?view=msvc-170
+Business Intelligence: https://www.velvetech.com/api-development-services/
+big data: https://www.softwaretestinghelp.com/big-data-tutorial/
