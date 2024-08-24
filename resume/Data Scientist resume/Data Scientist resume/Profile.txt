@@ -1,0 +1,56 @@
+NAME: Jason Lee    Birthday: 02/20/1995
+
+The name Jason has Greek origins and means "healer" or "to heal". In Greek mythology, Jason was the leader of the Argonauts and the husband of Medea. The name has a strong and positive meaning, making it a popular choice for many parents.
+
+SUMMARY
+ 
+With 5 years of experience working as a data scientist and over 6 years of strong academic background in analytical modeling and programming, I have been working to provide high-quality business intelligence solutions to enterprises seeking greater efficiency. With expertise in advanced statistical algorithms, machine learning, and forecasting, we have developed more than 1,150 high-performance parallel processing applications using a variety of programming languages, including Python and R.
+
+With 5 years of diverse experience, I excel at building data-intensive applications and solving complex architecture and scalability problems across a variety of industries. My areas of expertise are predictive modeling, big data processing, data mining algorithms, and scripting languages such as Python and R. I have the ability to create, develop, test, and deploy highly adaptable solutions that effectively translate business requirements into tangible results.
+
+EXPERIENCE
+ 
+Data Scientist
+VCI Global Inc
+02/25/2022 - 12/05/2023, 	Singapore
+• Increased revenue by 5% each month by converting data into actionable insights to provide insightful recommendations to  executives.
+• Generated statistical reports and visualizations provide key insights for over 20 marketing campaigns and initiatives, including A/B testing, customer retention, brand awareness, and global expansion.
+• Collaborated with management to develop and implement digital marketing strategies, identifying and implementing new strategies to improve campaign performance by 50%, increasing search marketing campaign revenue by 180%.
+• Developed a book tracking system with SQLite to improve cataloging accuracy, reducing data entry errors by 31%.
+
+Data Scientist
+Treasure Global Inc
+04/01/2019 - 10/20/2021,	 New York, United States   
+• Engineered and launched an advanced machine learning model to predict hardware malfunctions, achieving greater than 80% accuracy, increasing equipment uptime by 20%, and increasing operational efficiency by 15%.
+• Reduced paperwork by 20% by building a global custom real-time reporting system for executive stakeholders and processes.
+• Worked closely with a team of data engineers and BI analysts to improve the efficiency of our customer recommendation analytics engine by 33%.
+• Over 1100 tickets were scanned per event to keep the average wait time for guests at the entrance to less than 30 seconds.
+
+Data Scientist
+Universal Logistics Holdings Inc
+01/20/2018 – 03/12/2019,   	Singapore
+• Worked with a team of 10 people to deliver a new customer support system. Over 500 customer tickets were resolved through the system.
+• Reduced accident rate by 30% by building a fatigue detection model for shipping company crew members.
+• Conducted workload assessments and devised new operational processes that led to a 10% increase in productivity.
+
+EDUCATION
+BS: Data Science
+Bielefeld University  10/01/2013-03/31/2017
+During my time at the university, I gained expertise in programming languages, data structures, algorithms, software development methodologies, system design, database management, and network security, equipping me with the skills to create efficient and secure software solutions.
+
+SKILLS
+• Operating systems:
+Windows, MacOS, Linux
+• Database/Server:
+My SQL, Postgres, SQL server
+• Programming Language:
+Python, scikit-learn,OpenCV, D3.js, H2O.ai, Spark, Hadoop, R Programming, Django, Flask, Angular.js, HTML, SQL, Javascript, PHP
+• Other Software/Tools:
+Tableau, Deep Learning, Machine Learing, IP Cameras, AWS Services, Microsoft Azure
+
+KET ACCOMPLISHMENTS
+• Supported the senior data science team in building and refining machine learning models to drive revenue and conversions, resulting in a 30% profit margin improvement by launching five new products and discontinuing 20 existing products.
+
+STRENGTHS
+• Collaboration
+Managed a 5-member cross-functional (product, engineering, sales, support) team and coordinated with six business partners toward the successful launch of an e-commerce platform.
